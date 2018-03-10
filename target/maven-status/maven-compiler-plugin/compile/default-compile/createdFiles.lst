@@ -1,0 +1,7 @@
+com\epam\web\service\impl\MailServiceImpl.class
+com\epam\web\util\ResponseHandler.class
+com\epam\dao\MailDAO.class
+com\epam\model\MailException.class
+com\epam\web\service\MailService.class
+com\epam\web\util\CustomException.class
+com\epam\model\Mail.class
